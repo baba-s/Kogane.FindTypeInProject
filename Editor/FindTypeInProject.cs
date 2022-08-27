@@ -4,7 +4,7 @@ namespace Kogane.Internal
 {
     internal static class FindTypeInProject
     {
-        private const string MENU_ITEM_NAME = "Assets/Find Type In Project";
+        private const string MENU_ITEM_NAME = "Assets/Kogane/Find Type In Project";
 
         [MenuItem( MENU_ITEM_NAME, true )]
         private static bool CanFind()
