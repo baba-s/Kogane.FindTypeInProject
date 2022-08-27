@@ -1,5 +1,5 @@
 {
-    "name": "Kogane.FindTypeInProject.Editor",
+    "name": "Kogane.FindTypeInProject",
     "rootNamespace": "",
     "references": [
         "GUID:5eded9d8e8db68143ba1e8ecafee5453"
