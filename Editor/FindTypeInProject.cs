@@ -12,7 +12,7 @@ namespace Kogane.Internal
             return Selection.activeObject != null;
         }
 
-        [MenuItem( MENU_ITEM_NAME )]
+        [MenuItem( MENU_ITEM_NAME, false, 1234168529 )]
         private static void Find()
         {
             var asset = Selection.activeObject;
